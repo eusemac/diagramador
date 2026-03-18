@@ -71,7 +71,7 @@ export default function Home() {
         </div>
 
         <p className="text-xs text-zinc-600 font-mono tracking-widest mt-8 animate-pulse text-center">
-          v1.1.0 - EDITORIAL_DASHBOARD_LIVE
+          v1.2.0 - EDITORIAL_DASHBOARD_LIVE
         </p>
         <button className="mt-auto w-full py-3 bg-primary text-on-primary rounded font-bold hover:opacity-90 transition-opacity">
           Exportar PDF/X-1a
